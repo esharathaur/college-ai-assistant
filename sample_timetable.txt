@@ -1,0 +1,8 @@
+MONDAY
+9:00 AM - Python
+10:00 AM - Discrete Mathematics
+11:00 AM - Data Structures and Algorithms
+
+TUESDAY
+9:00 AM - Digital Electronics
+10:00 AM - Software Engineering
